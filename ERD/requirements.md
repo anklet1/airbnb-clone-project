@@ -2,5 +2,5 @@
 
 This diagram represents the entities and relationships for the Airbnb clone database.
 
-![ER Diagram](Diagram.png)
+![ER Diagram](diagram.png)
 C:UsersWorkPicturesScreenshotsER_diagram
